@@ -1,0 +1,16 @@
+{
+    "name": "multi blinky",
+    "dependencies": {
+        "adafruit-trinket-m0": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
