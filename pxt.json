@@ -1,5 +1,5 @@
 {
-    "name": "multi blinky",
+    "name": "halloween eyes with random stare",
     "dependencies": {
         "adafruit-trinket-m0": "*"
     },
